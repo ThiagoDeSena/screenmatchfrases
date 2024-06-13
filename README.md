@@ -1,5 +1,5 @@
 # Projeto Frases Aleatórias de Filmes e Séries: Mergulhando na Emoção do Cinema com Spring e JPA
-![Projeto LiterAlura](https://github.com/ThiagoDeSena/LiterAlura/assets/110785400/dd1e5ef9-ae36-4014-bc6e-fe40084720fc)
+![7 SÉRIES POST INSTAGRAM](https://github.com/ThiagoDeSena/screenmatchfrases/assets/110785400/36f25987-2cfe-44d5-b49d-315706084a32)
 
 ![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 ![Badge Linguagem](http://img.shields.io/static/v1?label=LINGUAGEM&message=JAVA&color=orange&style=for-the-badge)
